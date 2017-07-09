@@ -1,7 +1,3 @@
-//Bu C kod parcasi Muhammet Halil Muti Tarafindan
-//mhmuti.wordpress.com adresindeki
-// C egitimi icin hazirlanmistir. 
-
 #include <stdio.h>
 #include <stdlib.h>
 
