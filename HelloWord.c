@@ -1,7 +1,3 @@
-//Bu C kod parcasi Muhammet Halil Muti Tarafindan
-//mhmuti.wordpress.com adresindeki
-// C egitimi icin hazirlanmistir.
-
 //Kutuphane kismi
 #include <stdio.h>
 #include <stdlib.h>
